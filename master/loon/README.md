@@ -7,6 +7,8 @@ DOMAIN-SET
 
 The following are the DOMAIN-SET maintained by AdGuard that Surge can directly use. Rules update daily.
 Rule 	URL 	Description
+
+
 adaway.txt 	
 https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/adaway.txt 	
 https://adaway.org
